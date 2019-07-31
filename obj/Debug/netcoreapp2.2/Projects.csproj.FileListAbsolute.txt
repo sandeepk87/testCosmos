@@ -1,0 +1,11 @@
+/home/sandeep/Projects/bin/Debug/netcoreapp2.2/Projects.deps.json
+/home/sandeep/Projects/bin/Debug/netcoreapp2.2/Projects.runtimeconfig.json
+/home/sandeep/Projects/bin/Debug/netcoreapp2.2/Projects.runtimeconfig.dev.json
+/home/sandeep/Projects/bin/Debug/netcoreapp2.2/Projects.dll
+/home/sandeep/Projects/bin/Debug/netcoreapp2.2/Projects.pdb
+/home/sandeep/Projects/obj/Debug/netcoreapp2.2/Projects.csprojAssemblyReference.cache
+/home/sandeep/Projects/obj/Debug/netcoreapp2.2/Projects.csproj.CoreCompileInputs.cache
+/home/sandeep/Projects/obj/Debug/netcoreapp2.2/Projects.AssemblyInfoInputs.cache
+/home/sandeep/Projects/obj/Debug/netcoreapp2.2/Projects.AssemblyInfo.cs
+/home/sandeep/Projects/obj/Debug/netcoreapp2.2/Projects.dll
+/home/sandeep/Projects/obj/Debug/netcoreapp2.2/Projects.pdb
